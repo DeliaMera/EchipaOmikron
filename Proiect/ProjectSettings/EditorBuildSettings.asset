@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/Interface.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/JoinChat.unity
+    guid: f63d1453298e3c24a864847def2dbb70
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/Forum.unity
+    guid: 36517cffec0be0c439c975740038bd27
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/Play.unity
+    guid: 93971af933f14f94283dc764cdce02d6
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/Preview.unity
+    guid: b6997779be14888459acc87960358e07
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/Join.unity
+    guid: 4e2ecfc8c8d262945a616bfa5d1d7d81
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/Friends.unity
+    guid: 15f9b9489197a1a419345f1760ae9fac
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/forum1.unity
+    guid: b7fa967264b68fe49be5210647160521
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/forum2.unity
+    guid: 46588e5203f44074180a0f0a1f050937
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/forum3.unity
+    guid: 3f5e91a4e49979345ad61ab03b2ea936
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/Help.unity
+    guid: 01b23eff0e9dd454780306aac211b37f
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/Respawn.unity
+    guid: 90493b904253d28429eccbb2d823b1b9
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/Ouiz1.unity
+    guid: f0bd6f381b8cc144eabc12082f522453
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/Level2.unity
+    guid: 97a2ff977367b4049bdf771cb63ad4f2
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/Quiz2.unity
+    guid: 9bd439d4fe643dd449f3f02501101020
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/Respawn2.unity
+    guid: ec90c864cb23faf48ae3c3c04497f3f8
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/Level3.unity
+    guid: b1fbf3e64ee1c6d4bb4de7a4ab77b760
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/Quiz3.unity
+    guid: 9cc799bbcc56a654e877d9db5f0a0cb7
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/Respawn3.unity
+    guid: 9b871bd2afae1614f90baeeb7d8b95ab
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/GameFinal.unity
+    guid: 0632bc65629394e4aac18f722e8fd557
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/StartG.unity
+    guid: c632309413bcac244867133c5a896b88
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/ViewProfil.unity
+    guid: 0639633090996574dad99f4a9fed1ca0
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/Info.unity
+    guid: 44931194f57a22d449eb495a029d1de6
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/Schimbaprofil.unity
+    guid: 0a999134770493b4c87aef21f9fdf35f
+  - enabled: 1
+    path: Assets/Scenes/SceneProf/InterfaceP.unity
+    guid: 5740df460391079488409b2adf164fb8
+  - enabled: 1
+    path: Assets/Scenes/SceneProf/Classes.unity
+    guid: a9ac229b8741a5d45bdba2bc37ec14f6
+  - enabled: 1
+    path: Assets/Scenes/SceneProf/Students.unity
+    guid: b1beb17d5a7c5f34388bf94e47344d53
+  - enabled: 1
+    path: Assets/Scenes/SceneProf/Options.unity
+    guid: 6bc6529dc8cea674a8e2c1643a894fef
+  - enabled: 1
+    path: Assets/Scenes/SceneProf/Informatii.unity
+    guid: ea6510909555dbc48bce0dc6de902f1e
+  - enabled: 1
+    path: Assets/Scenes/SceneProf/ProfilP.unity
+    guid: 684f764f2c11ced42bc26d163927a204
+  - enabled: 1
+    path: Assets/Scenes/SceneProf/HelpP.unity
+    guid: adf7306b23b0a8a4aaf534130ba20c39
+  - enabled: 1
+    path: Assets/Scenes/SceneProf/IA.unity
+    guid: 67ab964ccdbe7d7469b25a061a625b47
+  - enabled: 1
+    path: Assets/Scenes/SceneProf/IB.unity
+    guid: 71ce1cf52f850874b9f042dab74dbf18
+  - enabled: 1
+    path: Assets/Scenes/SceneProf/IA DEUTSCH.unity
+    guid: 3688537e8ec61434598f518cbb9c7770
+  - enabled: 1
+    path: Assets/Scenes/SceneProf/Ib DEUTSCH.unity
+    guid: 1baba5ba71402464d85c8cd0a1cf61a1
+  - enabled: 1
+    path: Assets/Scenes/SceneProf/Afterschool.unity
+    guid: 6c8c4f771166914419031516fae5be33
+  - enabled: 1
+    path: Assets/Scenes/SceneProf/Contests.unity
+    guid: f858446443c38954191b1846a80e609c
+  - enabled: 1
+    path: Assets/Scenes/SceneProf/SedintaCuParintii.unity
+    guid: 8ca1590ada1406b43bd43815acd919d2
+  - enabled: 1
+    path: Assets/Scenes/SceneProf/1A/1A-Workscheets 1.unity
+    guid: 1dd07e1d28c02c0438faddfbea7b2e9e
+  - enabled: 1
+    path: Assets/Scenes/SceneProf/1A/1A - Homework.unity
+    guid: 6b49900d21b352f499bdd871f41b564e
+  - enabled: 1
+    path: Assets/Scenes/SceneProf/1A/1A-Grades.unity
+    guid: db9f3b5e2c5fcb749add8f7f65ef93fa
+  - enabled: 1
+    path: Assets/Scenes/SceneProf/UploadAMaterial.unity
+    guid: 1ed8898ea4ecbce40b37a90725ade13f
+  - enabled: 1
+    path: Assets/Scenes/SceneProf/CreateMiting.unity
+    guid: 9fb11339ac90dc547b97de48b43b130e
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/clAsswork.unity
+    guid: 8f9ebe2b0ff3bfc4288782f2491c1a9a
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/Webinars.unity
+    guid: 7603ddfe7a010a849806d8c2257cdada
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/Teamwork.unity
+    guid: 0b3bde90a9216514db098c8eea286330
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/Joinoptions.unity
+    guid: ab7564cac843c21458f5790dcac23469
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/JoinChat 1.unity
+    guid: 0b47ebdcfb8bf364b8e4ff281ac813d7
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/JoinChat 2.unity
+    guid: addddb19a317de643a037d31da3cf77b
+  - enabled: 1
+    path: Assets/Scenes/SceneElev/Omikredits.unity
+    guid: 6e611494f1216584f97325af4a696883
+  m_configObjects: {}
